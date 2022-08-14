@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "WS2812-2020")(type "Legacy")(uri "C:/Users/Jayden/Desktop/Github/ToyBox75/WS2812-2020.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/Jayden/Desktop/Github/ToyBox75/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/Jayden/Desktop/Github/ToyBox75/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "TIP120")(type "Legacy")(uri "${KIPRJMOD}/TIP120/TIP120.lib")(options "")(descr ""))
+  (lib (name "S2B-PH-K-S_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/S2B-PH-K-S_LF__SN_/S2B-PH-K-S_LF__SN_.lib")(options "")(descr ""))
+)

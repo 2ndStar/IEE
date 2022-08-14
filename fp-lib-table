@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Github/ToyBox75/MX_Alps_Hybrid.pretty/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Schematic Library")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Github/ToyBox75/MX_Alps_Hybrid.pretty/Schematic Library")(options "")(descr ""))
+  (lib (name "bakeneko")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Github/ToyBox75/bakeneko.pretty")(options "")(descr ""))
+  (lib (name "ToyBox75")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Github/ToyBox75")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/Jayden/Desktop/Github/ToyBox75/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "WS2812-2020")(type "KiCad")(uri "${KIPRJMOD}/WS2812-2020")(options "")(descr ""))
+  (lib (name "TIP120")(type "KiCad")(uri "${KIPRJMOD}/TIP120")(options "")(descr ""))
+  (lib (name "SM02B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/SM02B-SRSS-TB_LF__SN_")(options "")(descr ""))
+  (lib (name "S2B-PH-K-S_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/S2B-PH-K-S_LF__SN_")(options "")(descr ""))
+)

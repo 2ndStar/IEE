@@ -1,0 +1,102 @@
+
+(module TO220AH (layer F.Cu) (tedit 607680B0)
+  (descr "<b>Molded Package</b><p>grid 2.54 mm")
+  (fp_text reference REF** (at 0.635945 -6.105015 0) (layer F.SilkS)
+    (effects (font (size 1.40207086614 1.40207086614) (thickness 0.015)))
+  )
+  (fp_text value TO220AH (at 2.28881 -3.4332 0) (layer F.Fab)
+    (effects (font (size 1.40171653543 1.40171653543) (thickness 0.015)))
+  )
+  (fp_line (start -5.207 1.27) (end 5.207 1.27) (layer F.SilkS) (width 0.1524))
+  (fp_line (start 5.207 -14.605) (end -5.207 -14.605) (layer F.SilkS) (width 0.1524))
+  (fp_line (start 5.207 1.27) (end 5.207 -11.176) (layer F.SilkS) (width 0.1524))
+  (fp_line (start 5.207 -12.7) (end 5.207 -14.605) (layer F.SilkS) (width 0.1524))
+  (fp_line (start -5.207 1.27) (end -5.207 -11.176) (layer F.SilkS) (width 0.1524))
+  (fp_line (start -5.207 -12.7) (end -5.207 -14.605) (layer F.SilkS) (width 0.1524))
+  (fp_line (start -4.572 0.635) (end 4.572 0.635) (layer F.SilkS) (width 0.0508))
+  (fp_line (start 4.572 -7.62) (end 4.572 0.635) (layer F.SilkS) (width 0.0508))
+  (fp_line (start 4.572 -7.62) (end -4.572 -7.62) (layer F.SilkS) (width 0.0508))
+  (fp_line (start -4.572 0.635) (end -4.572 -7.62) (layer F.SilkS) (width 0.0508))
+  (fp_circle (center 0.0 -11.176) (end 1.8034 -11.176) (layer F.SilkS) (width 0.1524))
+  (fp_circle (center 0.0 -11.176) (end 4.191 -11.176) (layer Dwgs.User) (width 0.0))
+  (fp_circle (center 0.0 -11.176) (end 4.191 -11.176) (layer Dwgs.User) (width 0.0))
+  (fp_text user A17,5mm (at -4.44891 -7.88093) (layer F.SilkS)
+    (effects (font (size 0.800700787402 0.800700787402) (thickness 0.015)))
+  )
+  (fp_poly
+    (pts
+      (xy 2.1628 4.064)
+      (xy 2.921 4.064)
+      (xy 2.921 4.70727)
+      (xy 2.1628 4.70727)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.381151 4.064)
+      (xy 0.381 4.064)
+      (xy 0.381 4.70086)
+      (xy -0.381151 4.70086)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -2.92165 4.064)
+      (xy -2.159 4.064)
+      (xy -2.159 4.70004)
+      (xy -2.92165 4.70004)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -3.17659 1.27)
+      (xy -1.905 1.27)
+      (xy -1.905 4.06604)
+      (xy -3.17659 4.06604)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.635425 1.27)
+      (xy 0.635 1.27)
+      (xy 0.635 4.06672)
+      (xy -0.635425 4.06672)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 1.90591 1.27)
+      (xy 3.175 1.27)
+      (xy 3.175 4.06594)
+      (xy 1.90591 4.06594)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -2.92523 4.699)
+      (xy -2.159 4.699)
+      (xy -2.159 6.61356)
+      (xy -2.92523 6.61356)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.381636 4.699)
+      (xy 0.381 4.699)
+      (xy 0.381 6.61502)
+      (xy -0.381636 6.61502)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 2.16117 4.699)
+      (xy 2.921 4.699)
+      (xy 2.921 6.61063)
+      (xy 2.16117 6.61063)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (pad B thru_hole oval (at -2.54 6.35) (size 1.6764 3.3528) (drill 1.1176) (layers *.Cu *.Mask))
+  (pad C thru_hole oval (at 0.0 6.35) (size 1.6764 3.3528) (drill 1.1176) (layers *.Cu *.Mask))
+  (pad E thru_hole oval (at 2.54 6.35) (size 1.6764 3.3528) (drill 1.1176) (layers *.Cu *.Mask))
+  (pad None np_thru_hole circle (at 0.0 -11.176) (size 3.302 3.302) (drill 3.302) (layers *.Cu *.Mask))
+)
